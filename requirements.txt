@@ -1,9 +1,10 @@
 # Dependencias principales
 PyMuPDF==1.26.3
 langchain==0.3.27
-sentence-transformers==5.1.0
-chromadb==1.0.15
+sentence-transformers==2.7.0
+chromadb==0.4.22
 streamlit==1.41.1
+pydantic==1.10.13
 
 # Dependencias de procesamiento de texto
 langchain-text-splitters==0.3.9
