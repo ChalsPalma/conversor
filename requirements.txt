@@ -3,7 +3,7 @@ PyMuPDF==1.26.3
 langchain==0.3.27
 sentence-transformers==2.7.0
 chromadb==0.4.22
-streamlit==1.41.1
+streamlit==1.48.0
 pydantic==1.10.13
 
 # Dependencias de procesamiento de texto
