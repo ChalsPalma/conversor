@@ -1,0 +1,13 @@
+__pycache__/
+chroma_db/
+.streamlit/
+.npm/
+.nvm/
+.pki/
+.secrets/
+screenshots/
+example.pdf
+sandbox.txt
+upload/
+
+
