@@ -1,40 +1,20 @@
-# Dependencias principales
 PyMuPDF==1.26.3
 sentence-transformers==2.7.0
 chromadb==0.4.22
 streamlit==1.48.0
 pydantic==1.10.13
-setuptools
-
-# Dependencias de procesamiento de texto
 langchain
 langchain-text-splitters
 langchain-core
-
-# Dependencias de embeddings y ML
 torch
 transformers
 numpy
 scikit-learn
-
-# Dependencias de base de datos vectorial
 sqlalchemy
-
-# Dependencias opcionales para OCR
 pytesseract
 Pillow
-
-# Dependencias para procesamiento asíncrono (opcional)
-celery
-redis
-
-# Dependencias de utilidades
 requests
 python-dotenv
 tqdm
 
-# Dependencias de desarrollo y testing (opcional)
-pytest
-black
-flake8
 
